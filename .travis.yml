@@ -15,5 +15,5 @@ deploy:
   on:
     branch: master
   access_key_id: AKIAWJZ5ZRF4H3JWPONI
-  secure_access_key: EwibTq4LcnFCcEn0X9MedDXRzLADGd2Rg0hiRU2e
+  secret_access_key: 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
 
